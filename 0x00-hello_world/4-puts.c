@@ -1,3 +1,4 @@
+/* This program dispays a string to the standard output*/
 #include <stdio.h>
 
 /**
@@ -8,13 +9,13 @@
  * Puts - writes string to standard output
  * a blank line 
  * Return: void
-(*/
-
-int main() 
+(
+ */
+int main(void)   /*main function*/
 {
-	char MyStr[]="\"Programming is like building a multilingual puzzle";
+	char MyStr[] = "\"Programming is like building a multilingual puzzle";
 	
 	puts(MyStr);
 
-	return 0;
+	return (0);
 }
