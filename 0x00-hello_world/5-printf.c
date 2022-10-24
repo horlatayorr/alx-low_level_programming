@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main: Entry point of code, returns void
-(* a blank line
- * printf: TThis prints out a string
+ * main - Entry point of code, returns void
+ * a blank line
+ *
  * Return: Always Zero (success)
-(*
  */
 int main(void)
 {
