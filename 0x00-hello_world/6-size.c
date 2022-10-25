@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - Entry point of code, returns void
+ *
+ *
+ *
+ * Return: Always return zero(success)
+ */
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
