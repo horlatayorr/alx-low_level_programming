@@ -4,6 +4,7 @@
  * main - Entry into code, returns void
  * 
  * @Mystr: Char data type that stores string
+ *
  * Return: Always zero(success)
  */
 int main(void)
