@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - Entry into code, returns a string or int
+ * main - Entry into code, returns void
  *
  *
  * Return: Always returns 1(Failure)
