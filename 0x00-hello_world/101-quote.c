@@ -2,6 +2,9 @@
 
 /**
  * write - Function, takes date type char int and unsigned int
+ *@filedes - integer data type
+ *@*buf - string
+ *@nbyte - unsigned integer data type
  * main - Entry into code, returns a string or int
  *
  *
