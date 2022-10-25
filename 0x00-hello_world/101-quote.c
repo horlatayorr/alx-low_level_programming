@@ -8,8 +8,8 @@
  */
 int main(void)
 {
-	char My_str[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+	char str[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 
-	fprintf(stdout, "%s", My_str);
+	fprintf(stdout, "%s", str);
 	return (1);
 }
