@@ -5,8 +5,6 @@
 /**
  * main - Entry point of code, returns void
  *
- * @n: number to be checked
- *
  *
  * Return: Zero (success)
  */
